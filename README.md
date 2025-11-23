@@ -5,6 +5,10 @@
 Spring Boot + WebSocket + MySQL을 사용한 실시간 채팅 애플리케이션입니다.
 
 ## 🚀 기능
+<img width="1914" height="945" alt="화면 캡처 2025-11-23 163704" src="https://github.com/user-attachments/assets/38b421bf-8025-4c5e-9487-32c43967ab63" />
+<img width="1900" height="948" alt="화면 캡처 2025-11-23 163733" src="https://github.com/user-attachments/assets/8a91ad8f-9811-45a5-9115-b6e64626ac85" />
+<img width="3840" height="946" alt="화면 캡처 2025-11-23 163759" src="https://github.com/user-attachments/assets/32d5563e-ccd2-4ad1-9c89-fb8c2e149310" />
+<img width="3840" height="939" alt="화면 캡처 2025-11-23 163839" src="https://github.com/user-attachments/assets/c72c3c44-0a72-49e2-b629-8928a3f3cf46" />
 
 - ✅ 회원가입/로그인 (Spring Security)
 - ✅ 실시간 채팅 (WebSocket + STOMP)
@@ -287,3 +291,4 @@ http://localhost:8080/chat
 랜덤 채팅:
 
 http://localhost:8080/random
+
